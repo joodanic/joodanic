@@ -1,6 +1,7 @@
+![MasterHead](https://i.pinimg.com/originals/67/64/77/676477e695c7e5c60f3b5d2ea4c0a6bd.jpg)
 <h1 align="center">Hi 👋, I'm João Carvalho</h1>
 <h3 align="center">Currently studying Software Engineering at University of Minho</h3>
-<img align="right" alt="Itachi" width="400" src="https://media.tenor.com/WS8zv1DfPtUAAAAC/itachi-sasuke.gif">
+<img align="right" alt="Itachi" width="500" src="https://media.tenor.com/WS8zv1DfPtUAAAAC/itachi-sasuke.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joodanic&label=Profile%20views&color=0e75b6&style=flat" alt="joodanic" /> </p>
 
